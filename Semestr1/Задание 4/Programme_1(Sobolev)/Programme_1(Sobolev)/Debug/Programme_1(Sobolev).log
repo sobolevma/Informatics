@@ -1,0 +1,35 @@
+﻿Build started 16.10.2016 19:50:48.
+     1>Project "C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 4\Programme_1(Sobolev)\Programme_1(Sobolev)\Programme_1(Sobolev).vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Programme_1(Sobolev).unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Programme_1(Sobolev).pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Programme_1(Sobolev).pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Programme_1(Sobolev).cpp"
+         Programme_1(Sobolev).cpp
+     1>c:\users\максим\desktop\практика по информатике в бауманке\задание 4\programme_1(sobolev)\programme_1(sobolev)\programme_1(sobolev).cpp(12): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\users\максим\desktop\практика по информатике в бауманке\задание 4\programme_1(sobolev)\programme_1(sobolev)\programme_1(sobolev).cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\максим\desktop\практика по информатике в бауманке\задание 4\programme_1(sobolev)\programme_1(sobolev)\programme_1(sobolev).cpp(22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Programme_1(Sobolev).exe.embed.manifest.res" "Debug\Programme_1(Sobolev)_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 4\Programme_1(Sobolev)\Debug\Programme_1(Sobolev).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Programme_1(Sobolev).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 4\Programme_1(Sobolev)\Debug\Programme_1(Sobolev).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 4\Programme_1(Sobolev)\Debug\Programme_1(Sobolev).lib" /MACHINE:X86 "Debug\Programme_1(Sobolev).exe.embed.manifest.res"
+         "Debug\Programme_1(Sobolev).obj"
+         Debug\stdafx.obj
+         LINK : C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 4\Programme_1(Sobolev)\Debug\Programme_1(Sobolev).exe not found or not built by the last incremental link; performing full link
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Programme_1(Sobolev).exe.embed.manifest" /manifest "Debug\Programme_1(Sobolev).exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Programme_1(Sobolev).vcxproj -> C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 4\Programme_1(Sobolev)\Debug\Programme_1(Sobolev).exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Programme_1(Sobolev).unsuccessfulbuild".
+         Touching "Debug\Programme_1(Sobolev).lastbuildstate".
+     1>Done Building Project "C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 4\Programme_1(Sobolev)\Programme_1(Sobolev)\Programme_1(Sobolev).vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.36

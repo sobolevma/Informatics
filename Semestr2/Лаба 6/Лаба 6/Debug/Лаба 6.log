@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Лаба 6.cpp
+f:\практика по информатике в бауманке 2 семестр\лаба 6\лаба 6\лаба 6.cpp(154): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+f:\практика по информатике в бауманке 2 семестр\лаба 6\лаба 6\лаба 6.cpp(141): warning C4101: 'Head' : unreferenced local variable
+  LINK : F:\Практика по информатике в Бауманке 2 семестр\Лаба 6\Debug\Лаба 6.exe not found or not built by the last incremental link; performing full link
+  Лаба 6.vcxproj -> F:\Практика по информатике в Бауманке 2 семестр\Лаба 6\Debug\Лаба 6.exe

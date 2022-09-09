@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: edfcaec921da10145aa38b9dc17a6250
+timeCreated: 1495965269
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerObject: {instanceID: 0}
+  - hitSound: {fileID: 8300000, guid: 857801c3df96bb0469b70b8c3ab77e43, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

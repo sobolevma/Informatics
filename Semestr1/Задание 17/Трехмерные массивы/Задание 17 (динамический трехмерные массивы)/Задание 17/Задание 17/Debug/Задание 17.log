@@ -1,0 +1,21 @@
+﻿Build started 12.12.2016 1:12:08.
+     1>Project "F:\Практика по информатике в Бауманке Лабы\Задание 17\Трехмерные массивы\Задание 17 (динамический трехмерные массивы)\Задание 17\Задание 17\Задание 17.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Задание 17.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Задание 17.unsuccessfulbuild".
+         Touching "Debug\Задание 17.lastbuildstate".
+     1>Done Building Project "F:\Практика по информатике в Бауманке Лабы\Задание 17\Трехмерные массивы\Задание 17 (динамический трехмерные массивы)\Задание 17\Задание 17\Задание 17.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.13

@@ -1,0 +1,21 @@
+﻿Build started 16.10.2016 17:26:24.
+     1>Project "F:\Практика по информатике в Бауманке Лабы\Задание 7\Lab_7\Lab_7\Lab_7.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab_7.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab_7.unsuccessfulbuild".
+         Touching "Debug\Lab_7.lastbuildstate".
+     1>Done Building Project "F:\Практика по информатике в Бауманке Лабы\Задание 7\Lab_7\Lab_7\Lab_7.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.78

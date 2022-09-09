@@ -1,0 +1,21 @@
+﻿Build started 16.10.2016 19:18:24.
+     1>Project "C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 5\Задание 4.20(1)\Lab4_20(1)\Lab4_20(1)\Lab4_20(1).vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab4_20(1).unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab4_20(1).unsuccessfulbuild".
+         Touching "Debug\Lab4_20(1).lastbuildstate".
+     1>Done Building Project "C:\Users\Максим\Desktop\Практика по информатике в Бауманке\Задание 5\Задание 4.20(1)\Lab4_20(1)\Lab4_20(1)\Lab4_20(1).vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05

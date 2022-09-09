@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a336da625c2298946a1a75251edaf145
+timeCreated: 1495962818
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pointSound: {fileID: 8300000, guid: 3edf13444ee38f841926c240d74d7da8, type: 3}
+  - lifeSound: {fileID: 8300000, guid: d06815b41b19eb74a933f67ae14830c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
